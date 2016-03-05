@@ -12,6 +12,7 @@
 		0136AE121BDC055D000BC068 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0136AE101BDC055D000BC068 /* Main.storyboard */; };
 		0136AE141BDC055D000BC068 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0136AE131BDC055D000BC068 /* Assets.xcassets */; };
 		0136AE171BDC055D000BC068 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0136AE151BDC055D000BC068 /* LaunchScreen.storyboard */; };
+		0136AE211BDC06D4000BC068 /* amazonicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 0136AE201BDC06D4000BC068 /* amazonicon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0136AE131BDC055D000BC068 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0136AE161BDC055D000BC068 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0136AE181BDC055D000BC068 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0136AE201BDC06D4000BC068 /* amazonicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = amazonicon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				0136AE0C1BDC055D000BC068 /* AppDelegate.swift */,
 				0136AE0E1BDC055D000BC068 /* ViewController.swift */,
+				0136AE201BDC06D4000BC068 /* amazonicon.png */,
 				0136AE101BDC055D000BC068 /* Main.storyboard */,
 				0136AE131BDC055D000BC068 /* Assets.xcassets */,
 				0136AE151BDC055D000BC068 /* LaunchScreen.storyboard */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0136AE211BDC06D4000BC068 /* amazonicon.png in Resources */,
 				0136AE171BDC055D000BC068 /* LaunchScreen.storyboard in Resources */,
 				0136AE141BDC055D000BC068 /* Assets.xcassets in Resources */,
 				0136AE121BDC055D000BC068 /* Main.storyboard in Resources */,
